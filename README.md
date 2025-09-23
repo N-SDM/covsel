@@ -5,7 +5,11 @@
 [![Codecov test coverage](https://codecov.io/gh/N-SDM/covsel/branch/main/graph/badge.svg)](https://app.codecov.io/gh/N-SDM/covsel?branch=main)
 [![DOI](https://zenodo.org/badge/534570422.svg)](https://zenodo.org/badge/latestdoi/534570422)
 <!-- badges: end -->
-  
+ 
+# ⚠️ Repository Archived
+This repository is no longer maintained under the N-SDM account.  
+Active development continues here: [https://github.com/antadde/covsel](https://github.com/antadde/covsel)
+
 # covsel
 
 The *covsel* R package is a ready-to-use, automated, covariate selection
